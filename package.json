@@ -1,0 +1,21 @@
+{
+  "name": "generator-create-react-app",
+  "version": "1.0.0",
+  "description": "Scaffolding for react application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "to-case": "^2.0.0",
+    "yeoman-generator": "^3.2.0"
+  }
+}
